@@ -5,7 +5,7 @@ This is application note taker.During our busy life , we can create our notes  w
 
 
 # github Repo Link
-git@github.com:LipikaManglaa/note-taker.git
+[git@github.com:LipikaManglaa/note-taker.git](https://github.com/LipikaManglaa/note-taker)
 
 ## video Link
 https://drive.google.com/file/d/1lwYuY9gzSmzS7aFSSFnUCTEy51sR2hPl/view
