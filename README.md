@@ -10,6 +10,8 @@ git@github.com:LipikaManglaa/note-taker.git
 ## video Link
 https://drive.google.com/file/d/1lwYuY9gzSmzS7aFSSFnUCTEy51sR2hPl/view
 
+## deployment link
+https://notetakerdeployment-a58f8efbf6b2.herokuapp.com/
 ## Table of Contents
 
   
